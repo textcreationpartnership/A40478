@@ -1,0 +1,1214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Frier and the boy</title>
+            <title>Friar and the boy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40478</idno>
+            <idno type="STC">Wing F2205A</idno>
+            <idno type="STC">ESTC R218298</idno>
+            <idno type="EEBO-CITATION">99829906</idno>
+            <idno type="PROQUEST">99829906</idno>
+            <idno type="VID">34353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2029:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Frier and the boy</title>
+                  <title>Friar and the boy.</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication conjectured by and date from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Cropped at head and foot with loss of page numbers and signatures (if any); print show-through.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:34353:1"/>
+            <head>FRIER AND THE BOY.</head>
+            <lg>
+               <l>THere dwelt a man in my Countrie,</l>
+               <l>Who in his life had wives three,</l>
+            </lg>
+            <lg>
+               <l>A bleſſing full of joy:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y his firſt wife a child he had,</l>
+               <l>Which was a pretty ſturdy Lad,</l>
+            </lg>
+            <lg>
+               <l>A good unhappy Boy.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is father loved him very wel,</l>
+               <l>But his ſtepmother never a deal;</l>
+            </lg>
+            <lg>
+               <l>I tell you as I think.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll things ſhe thought loſt, by the Rood,</l>
+               <l>Which might the boy do any good,</l>
+            </lg>
+            <lg>
+               <l>As either meat or drink.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd yet, I wis, it was but bad,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or half enough thereof he had,</l>
+            </lg>
+            <lg>
+               <l>But ever more the worſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd therefore evil might ſhe fare,</l>
+               <l>That wrought the little boy ſuch care,</l>
+            </lg>
+            <lg>
+               <l>So far-forth as ſhe durſt.</l>
+               <l>Into the man the wife gan ſay,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would ye put this boy away,</l>
+            </lg>
+            <lg>
+               <l>And that right ſoon in haſte:</l>
+               <l>Truly he is a wicked Lad,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would ſome other man him had</l>
+            </lg>
+            <lg>
+               <l>That would him better chaſte.</l>
+               <l>Then ſaid the good man: Dame, not ſo,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will not let the young boy go,</l>
+            </lg>
+            <lg>
+               <l>Hee's but of tender age:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhal with me this year abide,</l>
+               <l>Till he be grown more ſtrong and try'd,</l>
+            </lg>
+            <lg>
+               <l>For to win better wage.</l>
+               <l>We have a man, a ſturdy Lout,</l>
+               <l>Who keeps our Neat the fields about,</l>
+            </lg>
+            <lg>
+               <l>And ſleepeth all the day:</l>
+               <l>He ſhal bide home, as God me ſhield,</l>
+               <l>And Iack ſhal paſs into the field,</l>
+            </lg>
+            <lg>
+               <l>To keep them, if he may.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en ſaid the wife: In veriment,</l>
+               <l>
+                  <pb facs="tcp:34353:2"/>Husband, thereto I give conſent.</l>
+            </lg>
+            <lg>
+               <l>For that I think it need,</l>
+               <l>On the morrow when it was day,</l>
+               <l>The little boy went on his way,</l>
+            </lg>
+            <lg>
+               <l>Towards the fields with ſpeed:</l>
+               <l>Of no man took he any cure.</l>
+               <l>But ſung, Hay ho, away the mure,</l>
+            </lg>
+            <lg>
+               <l>With mirth he did purſue.</l>
+               <l>Forward he drew with wight and main</l>
+               <l>Until he came amidſt the plain,</l>
+            </lg>
+            <lg>
+               <l>And then his dinner drew.</l>
+               <l>But when he ſaw it was ſo bad,</l>
+               <l>Full little liſt thereto he had,</l>
+            </lg>
+            <lg>
+               <l>And put it up from ſight,</l>
+               <l>Saying: He had no will to taſte,</l>
+               <l>And that his hunger ſtill ſhould laſt,</l>
+            </lg>
+            <lg>
+               <l>Till he came home at night,</l>
+               <l>Now as the boy ſate on an hill,</l>
+               <l>There came an old man him until,</l>
+            </lg>
+            <lg>
+               <l>Was walking by the way:</l>
+               <l>Who ſaid: My ſon, now God thee ſee</l>
+               <l>Full welcome Father, may ye be,</l>
+            </lg>
+            <lg>
+               <l>The little boy did ſay.</l>
+               <l>The old man ſaid: I hunger ſore,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack, haſt thou any meat in ſtore,</l>
+            </lg>
+            <lg>
+               <l>Which thou mayeſt give to me.</l>
+               <l>The boy reply'd: So God me ſave,</l>
+               <l>To ſuch poor victuals as I have;</l>
+            </lg>
+            <lg>
+               <l>Right welcome you ſhal be.</l>
+               <l>Of this the old man was full glad,</l>
+               <l>The boy drew forth ſuch as he had,</l>
+            </lg>
+            <lg>
+               <l>And ſaid: Go to gladly.</l>
+               <l>The old man eaſie was to pleaſe,</l>
+               <l>He ate, and made himſelf at eaſe,</l>
+            </lg>
+            <lg>
+               <l>Saying, Son, gramercy:</l>
+               <l>And for the meat thou gave to me,</l>
+               <l>I will give three things unto thee,</l>
+            </lg>
+            <lg>
+               <l>what e're thou wilt intreat.</l>
+               <l>Then ſaid the boy: The beſt I know,</l>
+               <l>That ye give to me a bow,</l>
+            </lg>
+            <lg>
+               <l>With which I birds may get,</l>
+               <l>A bow, my ſon, I ſhal thee give,</l>
+               <l>
+                  <pb facs="tcp:34353:2"/>which ſhal laſt while thou doſt live,</l>
+            </lg>
+            <lg>
+               <l>Yea, never bow nor break:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or if thou ſhoot therein all day,</l>
+               <l>Talking or winking any way,</l>
+            </lg>
+            <lg>
+               <l>The mark ſtill ſhalt thou hit.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow when the bow in hand he felt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd had arrows under his belt,</l>
+            </lg>
+            <lg>
+               <l>He merry was, I wiſh:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſaid: Had I a pype withall,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough ne're ſo little, nor ſo ſmal,</l>
+            </lg>
+            <lg>
+               <l>I had all that I wish.</l>
+               <l>pype, Son, ſhalt thou have alſo,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich in true Muſick ſo ſhal go,</l>
+            </lg>
+            <lg>
+               <l>I put thee out of doubt:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat whoſoever ſhal it hear,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal have no power to forbear:</l>
+            </lg>
+            <lg>
+               <l>But laugh and leap about.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow tell me what the third ſhal be,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or three things will <hi>I</hi> give to thee,</l>
+            </lg>
+            <lg>
+               <l>As I have ſaid before.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he boy then ſmiling, anſwer made</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have enough for my poor trade,</l>
+            </lg>
+            <lg>
+               <l>And will deſire no more.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he old man ſaid: My troath is p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hou ſhal have all I thee be height:</l>
+            </lg>
+            <lg>
+               <l>Say on now, let me ſee.</l>
+               <l>At home I have, the boy reply'd,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cruel ſtep-dame full of pride,</l>
+            </lg>
+            <lg>
+               <l>Who is moſt curſt to me:</l>
+               <l>When meat my father gives to me,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he wiſhes poyſon it might be,</l>
+            </lg>
+            <lg>
+               <l>And ſtareth in my face.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow when ſhe gazeth on me ſo,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would ſhe might a far<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> let go,</l>
+            </lg>
+            <lg>
+               <l>That might ring through the place.</l>
+               <l>The old man anſwered then anone:</l>
+               <l>When that ſhe looks thy face upon,</l>
+            </lg>
+            <lg>
+               <l>Her tail ſhal wynd the horn,</l>
+               <l>So lowdly, that who ſhal it hear,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal not be able to forbear,</l>
+            </lg>
+            <lg>
+               <l>But laugh her unto ſcorn.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o farewel, ſon, the old man cry'd,</l>
+               <l>
+                  <pb facs="tcp:34353:3"/>God keep you, Sir, the boy reply'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> take my leave of thee,</l>
+               <l>And he that beſt of all things may</l>
+               <l>Protect thee ſafe both night and day.</l>
+            </lg>
+            <lg>
+               <l>Gramercy, ſon ſaid he:</l>
+               <l>When it drew near unto the night.</l>
+               <l>Jack well adviſ'd, hy'd home full right,</l>
+            </lg>
+            <lg>
+               <l>It was his ordinance;</l>
+               <l>And as he went his pype did blow,</l>
+               <l>The whilſt his cattel on a row,</l>
+            </lg>
+            <lg>
+               <l>About him faſt did dance.</l>
+               <l>Thus to the towne h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pypsful trim</l>
+               <l>His skipping beaſts do follow him,</l>
+            </lg>
+            <lg>
+               <l>Into his fathers cloſe.</l>
+               <l>He went and put them up each one,</l>
+               <l>Then went into the houſe anone,</l>
+            </lg>
+            <lg>
+               <l>Into the hall he goes.</l>
+               <l>His father at his ſupper ſat,</l>
+               <l>And little Iack eſpy'd well that,</l>
+            </lg>
+            <lg>
+               <l>And ſaid to him anone:</l>
+               <l>Father, all day I kept your Neat,</l>
+               <l>At night, I pray you, give me meat,</l>
+            </lg>
+            <lg>
+               <l>I'm hungry, by Saint Iohn.</l>
+               <l>Meatleſs I have ben all the day,</l>
+               <l>And kept your beaſts they did not ſtray</l>
+            </lg>
+            <lg>
+               <l>My dinner was but ill.</l>
+               <l>His father took a capons wing,</l>
+               <l>And at his ſon he did it fling,</l>
+            </lg>
+            <lg>
+               <l>Bidding him eat his fill.</l>
+               <l>This grieves his ſtep-dames heart full ſore</l>
+               <l>Who loathes the lad ſtill more and more</l>
+            </lg>
+            <lg>
+               <l>And ſtares him in the face.</l>
+               <l>With that ſhe let go ſuch a blaſt,</l>
+               <l>As made the people all agaſt,</l>
+            </lg>
+            <lg>
+               <l>And ſounded through the place:</l>
+               <l>Each one did laugh and make good game;</l>
+               <l>But the curſt wife grew red for ſhame</l>
+            </lg>
+            <lg>
+               <l>And wiſht ſhe had been gone.</l>
+               <l>Pardie, the boy ſaid, well I wot.</l>
+               <l>That gun was well charged and ſhot,</l>
+            </lg>
+            <lg>
+               <l>And might have broken a ſtone.</l>
+               <l>Full curſtly ſhe lookt on him tho,</l>
+            </lg>
+            <lg>
+               <l>And then another fart let go,</l>
+               <l>
+                  <pb facs="tcp:34353:3"/>Which gart the thunder riſe.</l>
+               <l>Quoth Iacke Sir, did you never ſee,</l>
+               <l>A woman let her pellets flee,</l>
+            </lg>
+            <lg>
+               <l>More thick and more are eaſe:</l>
+               <l>Fy, ſaid the boy unto his Dame,</l>
+               <l>Temper thy tell-tale lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for ſhame,</l>
+            </lg>
+            <lg>
+               <l>Which made her full of ſorrow.</l>
+               <l>Dame, ſaid the good maid, go thyway,</l>
+               <l>For why? I ſwear by night and day,</l>
+            </lg>
+            <lg>
+               <l>Thy gear is not to borrow.</l>
+               <l>Now afterwards, as you ſhal hear,</l>
+               <l>Unto the houſe there came a Frier,</l>
+            </lg>
+            <lg>
+               <l>And lay there all the night:</l>
+               <l>This wife did love him as a Saint,</l>
+               <l>And to him made a great complaint,</l>
+            </lg>
+            <lg>
+               <l>Of Iack's moſt vile deſpice.</l>
+               <l>We have, quoth ſhe, within, I wis,</l>
+               <l>A wicked boy, none ſhrewder is,</l>
+            </lg>
+            <lg>
+               <l>Which doth me mighty care.</l>
+               <l>I dar not look upon his face.</l>
+               <l>Nor hardly ſhew my ſhameful caſe,</l>
+            </lg>
+            <lg>
+               <l>So filthily I fare,</l>
+               <l>For my ſake, meet him to morrow,</l>
+               <l>Beat him well, and give him ſorrow</l>
+            </lg>
+            <lg>
+               <l>Yea, make him blind and lame.</l>
+               <l>The Frier ſwore, he would him beat,</l>
+               <l>She prayed him, not to forget,</l>
+            </lg>
+            <lg>
+               <l>The boy did her much ſhame.</l>
+               <l>He is a witch, quoth ſhe, I ſmel.</l>
+               <l>But quoth the Frier, I'le beat him wel</l>
+            </lg>
+            <lg>
+               <l>Of that take you no care,</l>
+               <l>I'le teach him witch craft, if I may.</l>
+               <l>O, quoth the wife, do ſo, I pray,</l>
+            </lg>
+            <lg>
+               <l>Lay on, and do not ſpare.</l>
+               <l>Early next morning the boy aroſe,</l>
+               <l>And to the field full ſoon he goes,</l>
+            </lg>
+            <lg>
+               <l>His cattle for to drive.</l>
+               <l>The Frier up as early gat,</l>
+               <l>He was afraid he came to late,</l>
+            </lg>
+            <lg>
+               <l>And ran full faſt and blyth.</l>
+               <l>But when he came upon the land,</l>
+               <l>He found where little Iack did ſtand,</l>
+            </lg>
+            <lg>
+               <l>Keeping his beaſts alone.</l>
+               <l>
+                  <pb facs="tcp:34353:4"/>Now boy, he ſaid, God give thee ſhame,</l>
+               <l>What haſt thou done to thy ſtep da<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+            </lg>
+            <lg>
+               <l>Tel me forthwith <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And if thou canſt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quite thee well</l>
+               <l>I'le beat thee till thy body ſwel,</l>
+            </lg>
+            <lg>
+               <l>I will no longer byde.</l>
+               <l>The boy reply'd: What aileth thee?</l>
+               <l>My ſtep-dame is as well as ye,</l>
+            </lg>
+            <lg>
+               <l>What need you thus to chyde?</l>
+               <l>Sir, will you ſee mine arrows flee,</l>
+               <l>And hit yon ſmal bird on the eye,</l>
+            </lg>
+            <lg>
+               <l>And other things withal.</l>
+               <l>Good Sir, if I have little wit,</l>
+               <l>Yet yonder bird I mean to hit,</l>
+            </lg>
+            <lg>
+               <l>And give her you I ſhal.</l>
+               <l>There ſate a ſmal bird on a brier.</l>
+               <l>Shoot, ſhoot, thou wag, then ſaid the Frier,</l>
+            </lg>
+            <lg>
+               <l>For that fain would I ſee.</l>
+               <l>Iack hit the bird upon the head,</l>
+               <l>So right that ſhe fell down for dead,</l>
+            </lg>
+            <lg>
+               <l>No further could ſhe flee.</l>
+               <l>Faſt to the buſh the Frier then went,</l>
+               <l>And up the bird in hands he hint,</l>
+            </lg>
+            <lg>
+               <l>Much wondring at the chance.</l>
+               <l>Mean time Iack took his pipe and play'd</l>
+               <l>So loud, the Frier grew mad appay'd,</l>
+            </lg>
+            <lg>
+               <l>And gan to skip and dance:</l>
+               <l>No ſooner he the pipe ſound heard;</l>
+               <l>But mad-man like he bound and fard,</l>
+            </lg>
+            <lg>
+               <l>Leaping the buſh about.</l>
+               <l>The ſharp briers ſcratcht him by the face,</l>
+               <l>And by the breech and other place,</l>
+            </lg>
+            <lg>
+               <l>That faſt the blood ran out.</l>
+               <l>He tare his coat down the skirt,</l>
+               <l>His cap, his cool, his linen ſhirt,</l>
+            </lg>
+            <lg>
+               <l>And every other weed:</l>
+               <l>The thorns the while were rough a thick,</l>
+               <l>And did his privy member prick,</l>
+            </lg>
+            <lg>
+               <l>That faſt they g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to bleed.</l>
+               <l>Iack as he piped laugh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> among,</l>
+               <l>The Frier with b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers was vivel ſlung,</l>
+            </lg>
+            <lg>
+               <l>He hopped wondrous hie.</l>
+               <l>At laſt the Frier held up his hand,</l>
+               <l>
+                  <pb facs="tcp:34353:4"/>And ſaid I can no longer ſtand</l>
+            </lg>
+            <lg>
+               <l>Oh, I ſhal dancing die.</l>
+               <l>Gentle Iack thy pip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And here I vow, for good not ill,</l>
+            </lg>
+            <lg>
+               <l>To do thee any wo.</l>
+               <l>Iack laughing to him this reply'd:</l>
+               <l>Frier, skip out at the other ſide,</l>
+            </lg>
+            <lg>
+               <l>Thou haſt free leave to go:</l>
+               <l>Out of the buſh the Frier then went,</l>
+               <l>All marty'rd, ragged, ſcratcht and rent</l>
+            </lg>
+            <lg>
+               <l>And torn on every ſide:</l>
+               <l>Hardly on him was left a clout,</l>
+               <l>To wrap his belly round about,</l>
+            </lg>
+            <lg>
+               <l>His harlotry to hide,</l>
+               <l>The thorns had ſcracht him by the face</l>
+               <l>On hands and thighs, and every place</l>
+            </lg>
+            <lg>
+               <l>He was all bath'd in blood:</l>
+               <l>So much that who the Frier did ſee,</l>
+               <l>For fear of him were fain to flee,</l>
+            </lg>
+            <lg>
+               <l>Thinking he had been wood.</l>
+               <l>When to the good-wife home he came</l>
+               <l>He made no brags for very ſhame,</l>
+            </lg>
+            <lg>
+               <l>To ſee his cloaths rent all:</l>
+               <l>Much ſorrow in his heart he had,</l>
+               <l>And every man did gueſs him mad,</l>
+            </lg>
+            <lg>
+               <l>When he was in the hall.</l>
+               <l>The good-wife ſaid where haſt thou been,</l>
+               <l>Sure in ſome evil place I ween,</l>
+            </lg>
+            <lg>
+               <l>By ſight of thine array.</l>
+               <l>Dame (ſaid he) I came from thy ſon,</l>
+               <l>The devil and he hath me undone,</l>
+            </lg>
+            <lg>
+               <l>No man him conquer may.</l>
+               <l>With that the good-man he came in,</l>
+               <l>The wife ſet on her madding pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Cry'd here is foul array:</l>
+               <l>Thy ſon that is thy life and dear,</l>
+               <l>Hath almoſt ſlain the holy Frier,</l>
+            </lg>
+            <lg>
+               <l>Alas and well away.</l>
+               <l>The good-man ſaid <hi>benedicite,</hi>
+               </l>
+               <l>What hath the vile boy done to thee,</l>
+            </lg>
+            <lg>
+               <l>Now tell me without let?</l>
+               <l>The devil take him, the Frier then ſaid</l>
+               <l>He made me daunce deſpite mine head</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:34353:5"/>
+               <l>Among the thorns the hey go heat,</l>
+               <l>The good-man ſaid unto him tho,</l>
+               <l>Father hadſt thou been murthered ſo,</l>
+            </lg>
+            <lg>
+               <l>It had been deadly ſin.</l>
+               <l>The Frier to him made this reply</l>
+               <l>The pype did ſound ſo merrily,</l>
+            </lg>
+            <lg>
+               <l>That I could never blin.</l>
+               <l>Now when it grew to almoſt night,</l>
+               <l>Iack the boy came home full right,</l>
+            </lg>
+            <lg>
+               <l>As he was wont to do</l>
+               <l>But when he came unto the hall,</l>
+               <l>Full ſoon his Father did him call,</l>
+            </lg>
+            <lg>
+               <l>And bid him come him to.</l>
+               <l>Boy he ſaid, come let me hear,</l>
+               <l>What haſt thou done unto this Frier,</l>
+            </lg>
+            <lg>
+               <l>Lye not in any thing</l>
+               <l>Father he ſaid, now by my birth,</l>
+               <l>I playde him but a fit of Mirth,</l>
+            </lg>
+            <lg>
+               <l>and pyped him a ſpring:</l>
+               <l>That pype ſaid his father, I would hear,</l>
+               <l>Now God forbid cry'd out the Frier,</l>
+            </lg>
+            <lg>
+               <l>His hands then did he wring.</l>
+               <l>You ſhal the Boy ſaid by Gods grace</l>
+               <l>The Frier replyde wo and alas,</l>
+            </lg>
+            <lg>
+               <l>Making his ſorrows ring.</l>
+               <l>For Gods love ſaid the wretched Frier,</l>
+               <l>And if ye will that ſtrange pype hear,</l>
+            </lg>
+            <lg>
+               <l>Bind me faſt to a poſt;</l>
+               <l>For ſure my fortune this I read,</l>
+               <l>If dance <hi>I</hi> do, I am but dead,</l>
+            </lg>
+            <lg>
+               <l>My woful life is loſt.</l>
+               <l>Strong rops they took both ſharp and round,</l>
+               <l>And to the poſt the frier they bound,</l>
+            </lg>
+            <lg>
+               <l>In the midle of the hall.</l>
+               <l>And they that at the table ſat,</l>
+               <l>Laughed and made good ſport thereat,</l>
+            </lg>
+            <lg>
+               <l>Saying, Frier thou canſt not fall.</l>
+               <l>Then ſaid the good man to the Boy</l>
+               <l>Iack pype me up a merry toy,</l>
+            </lg>
+            <lg>
+               <l>Pype freely when thou will.</l>
+               <l>Father the Boy ſaid verily,</l>
+               <l>You ſhal have mirth enough and glee</l>
+            </lg>
+            <lg>
+               <l>Till you bide me be ſtill</l>
+               <l>
+                  <pb facs="tcp:34353:5"/>With hat this pype h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quickly hint.</l>
+               <l>And pyped whilſt in vecament,</l>
+            </lg>
+            <lg>
+               <l>Each creature gan to dance:</l>
+               <l>Lightly they skipt and leapt abo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earking there legs, now in now out</l>
+            </lg>
+            <lg>
+               <l>Striving aloft to prince,</l>
+               <l>The good man as in ſad deſpaire,</l>
+               <l>Leapt out, and through, and o're his chair</l>
+            </lg>
+            <lg>
+               <l>No man could caper hier.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome others leapt quite o're the ſtocks,</l>
+               <l>Some ſtart at ſtra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and fell ore blocks,</l>
+            </lg>
+            <lg>
+               <l>Some wallowed in the fire.</l>
+               <l>The good-man made himſelf good ſpor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>To ſee the dance in this mad ſort:</l>
+            </lg>
+            <lg>
+               <l>The good-wife ſat not ſtill,</l>
+               <l>But dancing ſtill ſhe lookt on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack,</l>
+               <l>And faſt her tail did double each crack,</l>
+            </lg>
+            <lg>
+               <l>Loud as a water mill,</l>
+               <l>The <hi>Frier</hi> this while was almoſt loſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e knockt his p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te againſt the poſt.</l>
+            </lg>
+            <lg>
+               <l>It was his dancing grace:</l>
+               <l>The rope rubde him under his chin,</l>
+               <l>That the blood ran from his ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed skin,</l>
+            </lg>
+            <lg>
+               <l>In many a naked place,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack pyping ran into the ſtreet</l>
+               <l>They followed him with nimble feet.</l>
+            </lg>
+            <lg>
+               <l>Having no power to ſtay</l>
+               <l>And in their haſte the door did crak:</l>
+               <l>Each tumbling over his fellows back.</l>
+            </lg>
+            <lg>
+               <l>Unmindful of their way.</l>
+               <l>The neighbors that were dwelling by,</l>
+               <l>Hearing the pype ſo Merrily,</l>
+            </lg>
+            <lg>
+               <l>Came dancing to the gate.</l>
+               <l>Some leapt ore doors ſome o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the hatch</l>
+               <l>No man would ſtay to draw the larch</l>
+            </lg>
+            <lg>
+               <l>But though he earne to late:</l>
+               <l>Some ſick or ſleeping in their bed,</l>
+               <l>As they by chance lift up their head:</l>
+            </lg>
+            <lg>
+               <l>Were with the pype awaked,</l>
+               <l>Straight out they ſtart through door and locks,</l>
+               <l>Some in their ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iers, ſome to their ſmo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>And ſome ſtark <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>
+                  <pb facs="tcp:34353:6"/>When all were gathered round about,</l>
+               <l>There was a vile unruly rout:</l>
+            </lg>
+            <lg>
+               <l>That danced in the ſtreet,</l>
+               <l>Of which ſome lame and could not go,</l>
+               <l>Striving to leap did tumble ſo:</l>
+            </lg>
+            <lg>
+               <l>They daunſt on hands and feet.</l>
+               <l>Iack ty'rd with ſport, ſaid now Ile reſt,</l>
+               <l>Do, quoth his father, I hold it beſt,</l>
+            </lg>
+            <lg>
+               <l>Thou cloyſt me with chear.</l>
+               <l>I pray thee <hi>Boy</hi> thou quiet ſit,</l>
+               <l>In truth this was the merrieſt fit,</l>
+            </lg>
+            <lg>
+               <l>I heard this ſeven year.</l>
+               <l>All theſe that dancing thither came,</l>
+               <l>Laught heartily, and made good game</l>
+            </lg>
+            <lg>
+               <l>Yet ſome got many a fall,</l>
+               <l>Thou curſed <hi>Boy</hi> cryed out the <hi>Frier,</hi>
+               </l>
+               <l>Here I do ſummon thee appear,</l>
+            </lg>
+            <lg>
+               <l>Before the Official.</l>
+               <l>Look thou be there on fryda<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> next,</l>
+               <l>Ile meet thee then though now perplext,</l>
+            </lg>
+            <lg>
+               <l>For to ordain thy ſorrow.</l>
+               <l>The <hi>Boy</hi> replyed, I mak a vow,</l>
+               <l>
+                  <hi>Frier</hi> Ile appear as ſoon as thou,</l>
+            </lg>
+            <lg>
+               <l>If fryday were to morrow.</l>
+               <l>But fryday came as you ſhal hear,</l>
+               <l>Iacks ſtep-dame and the dancing <hi>Frier</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Together they were met.</l>
+               <l>And other people a great pace,</l>
+               <l>Flock to the <hi>Court</hi> to hear each caſe.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Official</hi> was ſet.</l>
+               <l>Much civil matters were to do,</l>
+               <l>More <hi>Libels</hi> read then one or two</l>
+            </lg>
+            <lg>
+               <l>Both againſt <hi>Prieſt</hi> and <hi>Clark.</hi>
+               </l>
+               <l>Some there had teſtaments to prove,</l>
+               <l>Some women were through wanton love</l>
+            </lg>
+            <lg>
+               <l>Which got ſtroaks in the dark.</l>
+               <l>Each <hi>Proctor</hi> there did plead his caſe</l>
+               <l>When forth did ſtep <hi>Frier</hi> Tobias,</l>
+            </lg>
+            <lg>
+               <l>And <hi>Iacks</hi> ſtep dame alſo:</l>
+               <l>Sir <hi>Official</hi> aloud ſaid he</l>
+               <l>I have brought a wicked <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad to thee,</l>
+            </lg>
+            <lg>
+               <l>Hath done me mighty w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>He is a witch as I do fear,</l>
+               <l>
+                  <pb facs="tcp:34353:6"/>In <hi>Orleance</hi> he can find no pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</l>
+            </lg>
+            <lg>
+               <l>This of my ruth I know,</l>
+               <l>He is a devil (quoth the wife)</l>
+               <l>And almoſt berav'd me of my life,</l>
+            </lg>
+            <lg>
+               <l>At that her tail did blow;</l>
+               <l>So loud, the aſſembly laught thereat,</l>
+               <l>And ſaid her piſtols crack was flat,</l>
+            </lg>
+            <lg>
+               <l>The charge was all amiſſe.</l>
+               <l>Dame (quoth gentle <hi>Official</hi>)</l>
+               <l>Proceed and tell me forth thy tale,</l>
+            </lg>
+            <lg>
+               <l>And do no let for this:</l>
+               <l>The wife that feard another crak,</l>
+               <l>Stood mute &amp; nere a word ſhe ſpake</l>
+            </lg>
+            <lg>
+               <l>Shame put her in ſuch dread.</l>
+               <l>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (ſaid the <hi>Frier</hi>) right angerly,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave this is all ſtill long of thee,</l>
+            </lg>
+            <lg>
+               <l>Now evil mot thou ſpeed;</l>
+               <l>The <hi>Frier</hi> ſaid, <hi>Official,</hi>
+               </l>
+               <l>This wicked <hi>Boy</hi> will vex us all</l>
+            </lg>
+            <lg>
+               <l>Unleſs you do him chaſt;</l>
+               <l>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, he hath yet a pype truly,</l>
+               <l>Will make you daunce and leap ful<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</l>
+            </lg>
+            <lg>
+               <l>And break your heart at laſt.</l>
+               <l>The <hi>Offisial</hi> reply'd perdi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Such a pype <hi>I</hi> fain would ſee,</l>
+            </lg>
+            <lg>
+               <l>And what mirth it can make:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow God forbid replyed the <hi>Frier</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ere we ſhould that vile <hi>pipe</hi> hear</l>
+            </lg>
+            <lg>
+               <l>Ere I my way hence take:</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ypt</hi> on <hi>Iack</hi> ſaid the <hi>Official,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd let me hear thy cunning all</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Iack</hi> blew his <hi>pype</hi> ful loud,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat every man ſtart up and daunſt,</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>octors</hi> and <hi>Prieſts,</hi> and <hi>Sommors</hi> pranſt,</l>
+            </lg>
+            <lg>
+               <l>And all in that great crowd:</l>
+               <l>Ever the <hi>dask</hi> the <hi>Official</hi> ran,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd hope upon the <hi>Table</hi> than,</l>
+            </lg>
+            <lg>
+               <l>Straight jumpt into the door.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Frier</hi> that daunſt as faſt as he,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t him midway dangerouſly,</l>
+            </lg>
+            <lg>
+               <l>Brake others face full ſore;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Regiſter</hi> leapt from his pen,</l>
+               <l>
+                  <pb facs="tcp:34353:7"/>And hopt into the throng of men,</l>
+            </lg>
+            <lg>
+               <l>His <hi>Irkhorn</hi> in his hand.</l>
+               <l>With ſwinging round about his head,</l>
+               <l>Some he ſtrake blind, ſome almoſt dead</l>
+            </lg>
+            <lg>
+               <l>Some they could hardly ſtand:</l>
+               <l>The <hi>Proctors</hi> thing the bils about,</l>
+               <l>The good-wives tail gave many a ſhout</l>
+            </lg>
+            <lg>
+               <l>Perfuming all the mirth:</l>
+               <l>The <hi>Somoners</hi> as they had been wood,</l>
+               <l>Leap o're the forms and ſeats a good,</l>
+            </lg>
+            <lg>
+               <l>And wallowed on the earth.</l>
+               <l>Wenches that for their pennance came</l>
+               <l>And other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeds of worldly ſhame</l>
+            </lg>
+            <lg>
+               <l>Daunſt every one as faſt.</l>
+               <l>Each ſat upon a merrie <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in,</l>
+               <l>Some brok their heads and ſome their ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>And ſome their noſes braſt.</l>
+               <l>The <hi>Official</hi> thus ſore turmoylde,</l>
+               <l>Half ſwelt with ſweat almoſt ſpoild,</l>
+            </lg>
+            <lg>
+               <l>Cry'd to the wanto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld</l>
+               <l>To <hi>pype</hi> no more within that place</l>
+               <l>But ſtay the ſound even for Gods grace,</l>
+            </lg>
+            <lg>
+               <l>And love of Mary milde.</l>
+               <l>
+                  <hi>Iack</hi> ſaid as you will it ſhal be,</l>
+               <l>Provided I may hence go free:</l>
+            </lg>
+            <lg>
+               <l>And no man do me wrong:</l>
+               <l>Neither this woman, nor this <hi>Frier</hi>
+               </l>
+               <l>Nor any other creature here,</l>
+            </lg>
+            <lg>
+               <l>He anſwered him anone.</l>
+               <l>
+                  <hi>Iack I</hi> to thee my promiſe plight,</l>
+               <l>In thy defence I mean to fight,</l>
+            </lg>
+            <lg>
+               <l>And will oppoſe thy fond,</l>
+               <l>
+                  <hi>Iack</hi> caſt his <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yp,</hi> then all ſtill ſtood,</l>
+               <l>Some laughing into, ſome raging wood,</l>
+            </lg>
+            <lg>
+               <l>So p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rted at that tyde.</l>
+               <l>The <hi>Official</hi> and the <hi>Somner,</hi>
+               </l>
+               <l>The ſtep-dame and the wicked <hi>Frier;</hi>
+               </l>
+               <l>With much Joy mirth and pride,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34353:7" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
